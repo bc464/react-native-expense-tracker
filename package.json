@@ -1,6 +1,6 @@
 {
   "homepage": "https://bc464.github.io/react-native-expense-tracker",
-  "name": "expensetracker",
+  "name": "react-native-expense-tracker",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
